@@ -1,4 +1,4 @@
-# Assignment 3 – 5-Transistor OTA Design
+# 5-Transistor OTA Design
 
 ## Overview
 
